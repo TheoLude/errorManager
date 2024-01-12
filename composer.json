@@ -1,5 +1,5 @@
 {
-    "name": "eXtensia/errorManager",
+    "name": "extensia/errormanager",
     "description": "An error collector manager.",
     "type": "package",
     "authors": [
