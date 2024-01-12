@@ -1,6 +1,6 @@
 {
     "name": "eXtensia/errorManager",
-    "description": "An error colllector manager.",
+    "description": "An error collector manager.",
     "type": "package",
     "authors": [
         {
@@ -10,8 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "version": 1.0.0,
     "require": {
-        "php": ">=5.0",
+        "php": ">=5.0"
     }
 }
