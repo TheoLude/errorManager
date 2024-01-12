@@ -12,6 +12,6 @@
     "minimum-stability": "dev",
     "version": 1.0.0,
     "require": {
-        "php": ">=5.0"
+        "php": ">=5.0",
     }
 }
