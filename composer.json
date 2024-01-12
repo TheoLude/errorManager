@@ -1,0 +1,17 @@
+{
+    "name": "eXtensia/errorManager",
+    "description": "An error colllector manager.",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Thierry ANDRE",
+            "email": "theo.et.sandrine@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "version": 1.0.0,
+    "require": {
+        "php": ">=5.0"
+    }
+}
