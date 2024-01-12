@@ -16,7 +16,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"eXtensia\\errorManager\\": "eXtensia/errorManager/src/"
+			"eXtensia\\errorManager\\": "extensia/errormanager/src/"
 		}
 	}
 
