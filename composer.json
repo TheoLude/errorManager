@@ -1,6 +1,5 @@
 {
     "name": "extensia/errormanager",
-    "version": "1.0.0",
     "description": "An error collector manager.",
     "type": "package",
     "authors": [
